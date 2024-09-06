@@ -63,8 +63,7 @@ pipeline {
         always {
             emailext to: 'minullaksen@gmail.com.',
                      subject: "Jenkins Pipeline: Build ${currentBuild.fullDisplayName}",
-                     body: "Pipeline finished with status: ${currentBuild.currentResult}",
-                     attachLog: true
+                     body: "Pipeline finished with status: ${currentBuild.currentResult}"
         }
     }
 }
