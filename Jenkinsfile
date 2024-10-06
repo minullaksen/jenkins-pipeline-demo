@@ -62,7 +62,7 @@ pipeline {
     post {
         always {
             emailext to: 'minullaksen@gmail.com',
-                     subject: "Jenkins Pipeline: Build ${currentBuild.fullDisplayName}",
+                     subject: "Jenkins Pipeline: new commit Build ${currentBuild.fullDisplayName}",
                      body: "Pipeline finished with status: ${currentBuild.currentResult}"
         }
     }
